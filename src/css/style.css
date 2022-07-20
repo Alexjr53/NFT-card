@@ -92,7 +92,7 @@ main{
 
 .card .value .price::before{
     content: "";
-    background: url(../images/icon-ethereum.svg) center center no-repeat;
+    background: url(../images/icon-ethereum.svg) center no-repeat;
     width: 1rem;
     display: inline-block;
     margin-right: 0.8rem;
@@ -105,7 +105,7 @@ main{
 
 .card .value .days-left::before{
     content: "";
-    background: url(../images/icon-clock.svg) center center no-repeat;
+    background: url(../images/icon-clock.svg) center no-repeat;
     width: 2rem;
     display: inline-block;
     margin-right: 0.8rem;
