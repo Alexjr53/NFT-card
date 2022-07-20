@@ -1,6 +1,5 @@
 html{
     font-size: 62.5%;
-   
 }
     
 main{
@@ -139,6 +138,3 @@ main{
 .card .creator .description .name-creator:hover{
     color: var(--primary-soft);
 }
-
-
-
