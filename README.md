@@ -28,8 +28,8 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução URL: [Hunddle Landing Page - Frontend mentor](https://www.frontendmentor.io/solutions/hunddle-landing-page-bdwpWxN-zx)
-- URL: [Hunddle Landing Page](https://alexjr53.github.io/Landing-Page-Huddle/) 
+- Solução URL: [NFT preview card - Frontend mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-9GJFNxvEvT)
+- URL da página: [NFT preview card](https://alexjr53.github.io/NFT-card/) 
 
 ## Meu processo
 
