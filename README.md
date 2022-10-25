@@ -1,6 +1,7 @@
-# Frontend Mentor - Solução do NFT Preview Card Component
+# Desafio Frontend Mentor - Solução do NFT Preview Card Component
 
-Esta é uma solução para o [Desafio NFT preview card component no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+Esta é uma solução para o [Desafio NFT preview card component no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
+
 [![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/NFT-card/blob/main/LICENSE)
 ## Índice
 
@@ -20,15 +21,15 @@ Esta é uma solução para o [Desafio NFT preview card component no Frontend Men
 
 Os usuários devem ser capazes de:
 
-- Visualize o layout ideal para a página, dependendo do tamanho da tela do dispositivo
-- Veja os estados de foco para todos os elementos interativos na página
+- criar o layout ideal para a página, dependendo do tamanho da tela do dispositivo
+- criar o efeito de hover em todos os elementos interativos da página
 
 ### Screenshot
-![NFT card](src/images/Screenshot.gif)
+![NFT card](src/design/screenshot.gif)
 
 ### Links
 
-- Solução URL: [NFT preview card - Frontend mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-9GJFNxvEvT)
+- Solução do desafio: [NFT preview card - Frontend mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-9GJFNxvEvT)
 - URL da página: [NFT preview card](https://alexjr53.github.io/NFT-card/) 
 
 ## Meu processo
