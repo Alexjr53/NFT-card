@@ -2,6 +2,11 @@
 
 Esta é uma solução para o [Desafio NFT preview card component no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U).
 
+<<<<<<< HEAD
+=======
+Esta é uma solução para o [Desafio NFT preview card component no Frontend Mentor](https://www.frontendmentor.io/challenges/nft-preview-card-component-SbdUL_w0U). Os desafios do Frontend Mentor ajudam você a melhorar suas habilidades de codificação criando projetos realistas.
+
+>>>>>>> 065887828f83c96433be3ab323c159e30b71e90a
 [![NPM](https://img.shields.io/bower/l/MI)](https://github.com/Alexjr53/NFT-card/blob/main/LICENSE)
 ## Índice
 
