@@ -29,8 +29,9 @@ Os usuários devem ser capazes de:
 
 ### Links
 
-- Solução do desafio: [NFT preview card - Frontend mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-9GJFNxvEvT)
-- URL da página: [NFT preview card](https://alexjr53.github.io/NFT-card/) 
+- Solução do desafio no frontend mentor: [NFT preview card - Frontend mentor](https://www.frontendmentor.io/solutions/nft-preview-card-component-9GJFNxvEvT)
+- URL da página: [NFT preview card](https://alexjr53.github.io/NFT-card/)
+- Repositório do projeto no GitHub: [NFT preview card](https://github.com/Alexjr53/NFT-card)
 
 ## Meu processo
 
