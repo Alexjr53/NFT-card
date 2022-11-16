@@ -15,7 +15,7 @@ Esta é uma solução para o [Desafio NFT preview card component no Frontend Men
 - [Autor](#autor)
 - [Agradecimentos](#agradecimentos)
 
-  ## Visão geral
+## Visão geral
 
 ### Desafio
 
